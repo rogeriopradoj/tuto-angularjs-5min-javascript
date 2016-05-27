@@ -1,1 +1,13 @@
 */node_modules/*
+5-min-typescript/app/main.js
+5-min-typescript/app/main.js.map
+5-min-typescript/typings/browser.d.ts
+5-min-typescript/typings/main.d.ts
+5-min-typescript/typings/browser/ambient/core-js/index.d.ts
+5-min-typescript/typings/browser/ambient/jasmine/index.d.ts
+5-min-typescript/typings/browser/ambient/node/index.d.ts
+5-min-typescript/typings/main/ambient/core-js/index.d.ts
+5-min-typescript/typings/main/ambient/jasmine/index.d.ts
+5-min-typescript/typings/main/ambient/node/index.d.ts
+5-min-typescript/app/app.component.js
+5-min-typescript/app/app.component.js.map
